@@ -1,25 +1,9 @@
 # README
+Musician_Api is a simple Ruby Api that can be used in conjunction with a tutorial I developed here:
+https://medium.com/@afreeman5566/sending-requests-with-postman-d940610f0ccf
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+It's purpose is to allow anyone to quickly practice testing Post, Patch, Delete, and Get requests with Postman.
+Postman can be downloaded here: https://www.postman.com/
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # musicians_Api
